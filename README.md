@@ -21,8 +21,6 @@ AI-assisted coding tools were leveraged to explore best practices and accelerate
 - **Evaluation metrics**: RMSE, MAE, MAPE  
 - **Iterative multi-step forecasting**  
 - **Visualization & analysis** with Matplotlib and Pandas  
-- **AI-assisted coding** to improve efficiency and maintain code quality  
-
 ---
 
 ## Project Steps
