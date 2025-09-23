@@ -1,6 +1,5 @@
-# Energy_Consumption_Forecasting_LightGBM
-This project demonstrates a complete workflow for forecasting energy consumption using machine learning (LightGBM)
 # Electricity Consumption Forecasting with LightGBM
+This project demonstrates a complete workflow for forecasting energy consumption using machine learning (LightGBM)
 
 ## Overview
 This project is part of my journey in learning and exploring machine learning.  
