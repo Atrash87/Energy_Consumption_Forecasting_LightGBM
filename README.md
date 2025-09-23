@@ -14,7 +14,7 @@ AI-assisted coding tools were leveraged to explore best practices and accelerate
 
 ---
 
-## Skills Highlighted
+## Methodology
 - **Time-series forecasting** with LightGBM  
 - **Feature engineering**: lags, rolling statistics, differences, seasonal/cyclical, and interaction features  
 - **Model tuning**: RandomizedSearchCV, TimeSeriesSplit  
@@ -23,10 +23,12 @@ AI-assisted coding tools were leveraged to explore best practices and accelerate
 - **Visualization & analysis** with Matplotlib and Pandas  
 ---
 
-## Project Steps
+## Workflow
 
 1. **Data Loading & Aggregation**  
-   - Daily aggregation of raw meter readings from CSVs.  
+- Raw data: 15-minute interval readings (~140k rows per meter).
+- Aggregated to daily frequency (~1,462 rows) using Pandas resampling.
+- Reduced noise and made seasonal/long-term patterns more visible.
 
 2. **Feature Engineering**  
    - Lags and rolling statistics for each meter.  
