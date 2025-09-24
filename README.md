@@ -2,7 +2,7 @@
 This project demonstrates a complete workflow for forecasting energy consumption using machine learning (LightGBM)
 
 ## Overview
-This project is part of my journey in learning and exploring machine learning.  
+As part of my enthusiasm in machine learning , I’ve been exploring time-series forecasting.  
 I developed an end-to-end pipeline to forecast daily electricity consumption for multiple meters using real-world data.  
 The pipeline demonstrates:
 - feature engineering,
@@ -15,10 +15,10 @@ AI-assisted coding tools were leveraged to explore best practices and accelerate
 ---
 
 ## Methodology
-- **Time-series forecasting** with LightGBM  
-- **Feature engineering**: lags, rolling statistics, differences, seasonal/cyclical, and interaction features  
-- **Model tuning**: RandomizedSearchCV, TimeSeriesSplit  
-- **Evaluation metrics**: RMSE, MAE, MAPE  
+- **Time-series forecasting** with LightGBM.  
+- **Feature engineering**: lags, rolling statistics, differences, seasonal/cyclical, and interaction features.
+- **Model tuning**: RandomizedSearchCV, TimeSeriesSplit. 
+- **Evaluation metrics**: RMSE, MAE, MAPE.  
 - **Iterative multi-step forecasting**  
 - **Visualization & analysis** with Matplotlib and Pandas  
 ---
