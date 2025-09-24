@@ -2,8 +2,6 @@
 
 Here are all the figures:
 
-![Actual_v.s_forcast_Ex](Actual_v.s_forcast_Ex.png)
-![Day_Forecast_Ex](Day_Forecast_Ex.png)  
 ![MT_001_Actual_v.s_Forecast](MT_001_Actual_v.s_Forecast.png)  
 ![MT_001_Day_Forcast](MT_001_Day_Forcast.png)  
 ![MT_025_Actual_v.s_Forecast](MT_025_Actual_v.s_Forecast.png)  
