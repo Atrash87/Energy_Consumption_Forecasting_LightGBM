@@ -32,6 +32,7 @@ Clustering on daily consumption revealed five active clusters plus one inactive 
 ---
 
 ## 3. Forecasting Results
+![Actual_v.s_forcast_Ex](figures/Actual_v.s_forcast_Ex.png)
 Sample results (LightGBM) for selected meters:  
 
 | Meter | Zero % | RMSE | MAE | MAPE |
