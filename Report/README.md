@@ -53,12 +53,26 @@ Sample results (LightGBM) for selected meters:
 - **Metrics Matter:** MAPE inflated for low-consumption meters; RMSE/NRMSE were more stable indicators.  
 
 ---
-
 ## 5. Conclusion
-Forecasting electricity usage depends as much on data behavior as on the model itself.  
-Key insights:  
-- High-consumption, stable meters forecast well (MAPE ≈ 10%).  
-- Sparse or volatile meters remain challenging (MAPE 50–80%).  
+Forecasting electricity usage depends as much on data behavior as on the model itself.
+
+**Key insights:**
+
+- High-consumption, stable meters forecast well (MAPE ≈ 10%).
+
+- Sparse or volatile meters remain challenging (MAPE 50–80%).
+
+- Model comparison: LightGBM generally outperformed Random Forest, especially after hyperparameter tuning, though both struggled with highly volatile meters.
+
+- Data aggregation: Due to computational constraints, the model was trained on daily aggregated data rather than 15-minute intervals. This aggregation is an important factor affecting performance, particularly for meters with rapid fluctuations.
+
+**Future work:**
+
+- Try alternative metrics (SMAPE, weighted MAPE).
+
+- Build two-stage models (classify zero vs non-zero days, then forecast).
+
+- Add external features (holidays, weather). 
 
 **Future work:**  
 - Try alternative metrics (SMAPE, weighted MAPE).  
