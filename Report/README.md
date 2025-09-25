@@ -41,7 +41,7 @@ To illustrate model behavior across activity levels, six meters were selected—
 - Volatile meters illustrate how sudden spikes or dips challenge the model.  
 
 
-![Actual vs Forecast Examples](4.Figures/Actual_v.s_forcast_Ex.png)
+![Actual vs Forecast Examples](../4.Figures/Actual_v.s_forcast_Ex.png)
 
 ---
 
