@@ -71,12 +71,12 @@ The clusters differ not only in number of meters but also in average daily energ
 
 | Cluster | Average Daily Consumption |
 |---------|---------------------------|
-| 0       | 4,505                     |
-| 1 (Inactive) | 901,974               |
+| 0   (mostly inactive)   | 4,505                     |
+| 1       | 901,974                  |
 | 2       | 497,519                   |
 | 3       | 195,735                   |
 | 4       | 42,728                    |
-| -1 (Outliers) | 7,163                |
+| -1 ( inactive) | 7,163                |
 
 ![Average Daily Consumption](../4.Figures/Average_Daily_Consumbtion_by_Cluster.png)
 
