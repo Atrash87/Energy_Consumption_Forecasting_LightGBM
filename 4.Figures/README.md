@@ -2,6 +2,8 @@
 
 Here are all the figures:
 
+![MT_001_Actual_v.s_Forecast](Clusters.png) 
+![MT_001_Actual_v.s_Forecast](Average_Daily_Consumbtion_by_Cluster.png) 
 ![MT_001_Actual_v.s_Forecast](MT_001_Actual_v.s_Forecast.png)  
 ![MT_001_Day_Forcast](MT_001_Day_Forcast.png)  
 ![MT_025_Actual_v.s_Forecast](MT_025_Actual_v.s_Forecast.png)  

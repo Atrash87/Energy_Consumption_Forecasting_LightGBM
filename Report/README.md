@@ -1,5 +1,4 @@
 # Electricity Consumption Forecasting with Machine Learning
-
 ## 1. Introduction
 This notebook explores forecasting of daily electricity consumption using machine learning.  
 The dataset originally had ~140,000 rows (15-minute intervals across ~340 meters), later aggregated to daily frequency (~1,462 rows).  
@@ -30,7 +29,7 @@ Clustering on daily consumption revealed five active clusters plus one inactive 
 | -1 | 7,163 | Inactive group |
 
 ---
-
+![Actual vs Forecast](../4.Figures/Average_Daily_Consumbtion_by_Cluster.png)  
 ## 3. Forecasting Results
 Sample results (LightGBM) for selected meters:  
 
