@@ -34,7 +34,7 @@ Meters with higher percentages of zero readings and stronger volatility tend to 
 ---
 
 ### 2.2 Actual vs Forecast Examples
-To illustrate model behavior across activity levels, six meters were selected—one from each cluster. These represent a range of activity patterns: from mostly active meters with steady daily demand to mostly inactive ones dominated by zero consumption.  
+To illustrate model behavior across activity levels, six meters were selected, one from each cluster. These represent a range of activity patterns: from mostly active meters with steady daily demand to mostly inactive ones dominated by zero consumption.  
 
 - Highly active meters show clear daily cycles with moderate forecast errors.  
 - Mostly inactive meters yield higher MAPE, as small absolute errors inflate relative error percentages.  
