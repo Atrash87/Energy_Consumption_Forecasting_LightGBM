@@ -40,6 +40,7 @@ To illustrate model behavior across activity levels, six meters were selected—
 - Mostly inactive meters yield higher MAPE, as small absolute errors inflate relative error percentages.  
 - Volatile meters illustrate how sudden spikes or dips challenge the model.  
 
+
 ![Actual vs Forecast Examples](4.Figures/Actual_v.s_forcast_Ex.png)
 
 ---
