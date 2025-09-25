@@ -80,8 +80,7 @@ The clusters differ not only in number of meters but also in average daily energ
 
 ![Average Daily Consumption](../4.Figures/Average_Daily_Consumbtion_by_Cluster.png)
 
-These results reveal structural differences in usage patterns, where inactive meters form a distinct cluster with large consumption spikes concentrated in fewer days.
-
+**Inactive meters use almost no electricity most days, but sharp spikes make their total consumption appear higher than the “mostly inactive” group.**
 ---
 
 ## 4. Conclusion
