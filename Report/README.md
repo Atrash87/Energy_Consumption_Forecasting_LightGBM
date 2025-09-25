@@ -48,7 +48,7 @@ To illustrate model behavior across activity levels, six meters were selected—
 ### 2.3 One-Day Forecasts
 For the same meters, day-level forecasts are shown to highlight model sensitivity to fluctuations:  
 
-![One-Day Forecasts](figures/daily_forecasts.png)
+![One-Day Forecasts](../4.Figures/Day_Forecast_Ex.png)
 
 These plots confirm that forecast accuracy correlates strongly with both activity level and volatility.
 
@@ -62,7 +62,7 @@ Clustering was used to categorize meters into activity groups:
 - **Mostly Active (MA):** 331 meters  
 - **Mostly Inactive (MI):** 39 meters  
 
-![Cluster Distribution](figures/meter_clusters.png)
+![Cluster Distribution](../Figures/Clusters.png)
 
 ---
 
@@ -78,7 +78,7 @@ The clusters differ not only in number of meters but also in average daily energ
 | 4       | 42,728                    |
 | -1 (Outliers) | 7,163                |
 
-![Average Daily Consumption](figures/avg_daily_consumption_by_cluster.png)
+![Average Daily Consumption](../Figures/Average_Daily_Consumbtion_by_Cluster.png)
 
 These results reveal structural differences in usage patterns, where inactive meters form a distinct cluster with large consumption spikes concentrated in fewer days.
 
