@@ -62,7 +62,7 @@ Clustering was used to categorize meters into activity groups:
 - **Mostly Active (MA):** 331 meters  
 - **Mostly Inactive (MI):** 39 meters  
 
-![Cluster Distribution](../Figures/Clusters.png)
+![Cluster Distribution](../4.Figures/Clusters.png)
 
 ---
 
@@ -78,7 +78,7 @@ The clusters differ not only in number of meters but also in average daily energ
 | 4       | 42,728                    |
 | -1 (Outliers) | 7,163                |
 
-![Average Daily Consumption](../Figures/Average_Daily_Consumbtion_by_Cluster.png)
+![Average Daily Consumption](../4.Figures/Average_Daily_Consumbtion_by_Cluster.png)
 
 These results reveal structural differences in usage patterns, where inactive meters form a distinct cluster with large consumption spikes concentrated in fewer days.
 
