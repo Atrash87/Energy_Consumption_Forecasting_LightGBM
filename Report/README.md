@@ -45,7 +45,7 @@ To illustrate model behavior across activity levels, six meters were selected, o
 
 ---
 
-### 2.3 One-Day Forecasts
+### 2.3 One-Month Forecasts
 For the same meters, day-level forecasts are shown to highlight model sensitivity to fluctuations:  
 
 ![One-Day Forecasts](../4.Figures/Day_Forecast_Ex.png)
