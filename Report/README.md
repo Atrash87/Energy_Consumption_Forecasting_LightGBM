@@ -96,8 +96,8 @@ Future improvements could include integrating calendar effects (holidays, weeken
 ---
 
 ## 4. Discussion
-- **Zero Days:** Forecast accuracy dropped sharply when meters had >50% zero days.  
-- **Volatility:** Even meters with few zeros (e.g., MT_202) showed errors if daily totals fluctuated strongly (100–300 → 30).  
+- **Zero Days:** Forecast accuracy dropped sharply when meters had >50% zero readings.  
+- **Volatility:** Even meters with few zeros (e.g., MT_202) showed errors if daily totals fluctuated strongly (100 and 300 KWH).  
 - **Metrics:** MAPE inflated for low-consumption meters; RMSE/NRMSE were more stable indicators.  
 
 ---
